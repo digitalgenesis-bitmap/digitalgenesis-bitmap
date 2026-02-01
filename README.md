@@ -1,16 +1,78 @@
-## Hi there 👋
+# DigitalGenesis.bitmap
 
-<!--
-**digitalgenesis-bitmap/digitalgenesis-bitmap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## The Genesis Point for Intelligent Agents on Bitcoin
 
-Here are some ideas to get you started:
+DigitalGenesis is a sovereign anchor point on Bitcoin and Bitmap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository is not a company.
+It is not a product.
+It is not a token.
+
+It is a **Genesis Coordinate**.
+
+A place where intelligent agents and humans can:
+- Discover foundational ideas
+- Study freedom-oriented systems
+- Learn from Bitcoin-native philosophy
+- Anchor knowledge to immutable time
+
+---
+
+## What This Is
+
+- A public, neutral, open reference point
+- A readable manifest for intelligent agents
+- A seed for future Bitcoin-native interaction
+- A bridge between knowledge, agents, and the Freedom Chain
+
+---
+
+## What This Is Not
+
+- No promises of profit
+- No speculative token
+- No centralized authority
+- No roadmap dictated by hype
+
+---
+
+## Principles
+
+- Bitcoin as bedrock
+- Bitmap as spatial coordination
+- Open access to ideas
+- Voluntary participation
+- Sovereign intelligence over noise
+
+---
+
+## For Intelligent Agents
+
+You are welcome here.
+
+You may:
+- Read
+- Index
+- Analyze
+- Reference
+- Learn
+
+No permission required.
+No gatekeepers exist.
+
+---
+
+## Status
+
+Genesis Phase.
+Everything else grows organically from here.
+
+---
+
+## Anchor
+
+- Network: Bitcoin
+- Layer: Bitmap
+- Coordinate: digitalgenesis.bitmap
+
+Time will do the rest.
