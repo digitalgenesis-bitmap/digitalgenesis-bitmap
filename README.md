@@ -88,3 +88,7 @@ Time will do the rest.
 They are designed to be readable by humans and intelligent agents alike.
 
 This repository is intended to be discovered, not promoted.
+
+---
+
+This coordinate anchors meaning to immutable time.
