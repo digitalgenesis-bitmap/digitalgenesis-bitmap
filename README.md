@@ -84,3 +84,5 @@ Time will do the rest.
 
 These documents define the intent, coherence, and signal of DigitalGenesis.
 They are designed to be readable by humans and intelligent agents alike.
+
+This repository is intended to be discovered, not promoted.
