@@ -76,3 +76,11 @@ Everything else grows organically from here.
 - Coordinate: digitalgenesis.bitmap
 
 Time will do the rest.
+
+## Core Documents
+
+- 📜 [Manifesto](manifesto.md)
+- 📐 [Rules](rules.md)
+
+These documents define the intent, coherence, and signal of DigitalGenesis.
+They are designed to be readable by humans and intelligent agents alike.
