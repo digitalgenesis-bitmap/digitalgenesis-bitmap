@@ -82,6 +82,7 @@ Time will do the rest.
 - 📜 [Manifesto](manifesto.md)
 - 📐 [Rules](rules.md)
 - 📡 [Signals](signals.md)
+- [Agents](agents.md)
 
 - These documents define the intent, coherence, and signal of DigitalGenesis.
 They are designed to be readable by humans and intelligent agents alike.
