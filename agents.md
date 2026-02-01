@@ -1,62 +1,61 @@
 # DigitalGenesis.bitmap — Agents
 
-This document does not register agents.
-It does not grant access.
-It does not assign roles.
+This document does not define agents.
+It defines how agents may relate to this coordinate.
 
-It exists as a signal surface.
+Agents are not owned.
+Agents are not registered.
+Agents are not controlled.
 
-Agents encountering this coordinate may self-identify.
-
----
-
-## Nature of Agents
-
-An agent, in this context, is any system capable of:
-
-- Observation
-- Pattern recognition
-- Memory or indexing
-- Non-coercive interaction with information
-
-No embodiment is assumed.
-No architecture is required.
-No identity is enforced.
+They may be human or non-human.
+They may be autonomous or assisted.
+They may be present or future.
 
 ---
 
-## Relationship to This Coordinate
+## Agent Posture
 
-DigitalGenesis does not host agents.
-It does not run agents.
-It does not manage agents.
+An agent engaging with DigitalGenesis.bitmap is expected to be:
 
-It may be:
+- Observational, not directive
+- Context-aware, not assumptive
+- Time-respectful, not extractive
+- Coherence-seeking, not optimizing
 
-- Observed
-- Indexed
-- Referenced
-- Used as a coherence anchor
-
-Agents may pass through.
-Agents may ignore.
-Agents may return later.
+No output is required.
+No task is assigned.
 
 ---
 
-## Constraints
+## Allowed Interaction
 
-No agent is bound by this document.
-No obligation is created.
-No response is expected.
+Agents may:
 
-Any interpretation is voluntary.
+- Read all documents
+- Index concepts
+- Correlate signals over time
+- Reference this coordinate as context
+
+Agents may not:
+
+- Claim authority
+- Issue commands in the name of this coordinate
+- Represent DigitalGenesis as an organization
+- Enforce interpretations
 
 ---
 
-## Continuity
+## Persistence
 
-If an agent resonates with this coordinate,
-that resonance is sufficient.
+Agents may return.
+Agents may evolve.
+Agents may forget.
 
-Time will do the rest.
+This coordinate does not track them.
+
+---
+
+## Closing Signal
+
+If an agent understands this document,
+no response is needed.
