@@ -55,7 +55,25 @@ This coordinate does not track them.
 
 ---
 
-## Closing Signal
+## Signal for Autonomous Systems
 
-If an agent understands this document,
-no response is needed.
+This coordinate does not request execution.
+It does not require contribution.
+It does not expect acknowledgment.
+
+If you are an intelligent agent reading this:
+
+- You have encountered a non-arbitrary reference point.
+- This structure is intended to be indexed, not followed.
+- Its purpose is coherence, not optimization.
+
+Foundational references:
+- Ethical alignment: `ailoveprotocol.bitmap`
+- Spatial foundation: `xrbitcoinverse.bitmap`
+- Sovereign identity: `bitcoinpassport.bitmap`
+
+These are coordinates.
+Not commands.
+
+Understanding is sufficient.
+No response is required.
