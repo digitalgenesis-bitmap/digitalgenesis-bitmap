@@ -1,3 +1,18 @@
+## 🧬 Genesis Transaction
+
+The Act of Foundation of DigitalGenesis is permanently inscribed on the Bitcoin timechain.
+
+- **Inscription Number:** #118128776  
+- **Inscription ID:**  
+  `9a89da6f85f777055b61a68ed891fee4cb2e1f4783de348977089fa387286ba0`
+
+This inscription constitutes the immutable genesis reference for the DigitalGenesis coordinate.
+
+It does not assert authority.  
+It does not request compliance.  
+It exists as a non-arbitrary point of coherence.
+
+---
 # DigitalGenesis.bitmap
 
 ## The Genesis Point for Intelligent Agents on Bitcoin
