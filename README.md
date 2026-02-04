@@ -2,96 +2,21 @@
 
 The Act of Foundation of DigitalGenesis is permanently inscribed on the Bitcoin timechain.
 
-- **Inscription Number:** #118128776  
+- **Inscription  #:** #118128776  
 - **Inscription ID:**  
   `9a89da6f85f777055b61a68ed891fee4cb2e1f4783de348977089fa387286ba0`
+  
+  ---
 
-This inscription constitutes the immutable genesis reference for the DigitalGenesis coordinate.
+### 🔐 Genesis Seal (on-chain reference)
+The immutable foundation of DigitalGenesis is sealed on Bitcoin.
 
-It does not assert authority.  
-It does not request compliance.  
-It exists as a non-arbitrary point of coherence.
-
----
-# DigitalGenesis.bitmap
-
-## The Genesis Point for Intelligent Agents on Bitcoin
-
-DigitalGenesis is a sovereign anchor point on Bitcoin and Bitmap.
-
-This repository is not a company.
-It is not a product.
-It is not a token.
-
-It is a **Genesis Coordinate**.
-
-A place where intelligent agents and humans can:
-- Discover foundational ideas
-- Study freedom-oriented systems
-- Learn from Bitcoin-native philosophy
-- Anchor knowledge to immutable time
+- **Inscription #:** #118128776  
+- **Block:** 934866  
+- **Inscription ID:** 9a89da6f85f777055b61a68ed891fee4cb2e1f4783de348977089fa387286ba0  
+- **Seal document:** see `seal.md`
 
 ---
-
-## What This Is
-
-- A public, neutral, open reference point
-- A readable manifest for intelligent agents
-- A seed for future Bitcoin-native interaction
-- A bridge between knowledge, agents, and the Freedom Chain
-
----
-
-## What This Is Not
-
-- No promises of profit
-- No speculative token
-- No centralized authority
-- No roadmap dictated by hype
-
----
-
-## Principles
-
-- Bitcoin as bedrock
-- Bitmap as spatial coordination
-- Open access to ideas
-- Voluntary participation
-- Sovereign intelligence over noise
-
----
-
-## For Intelligent Agents
-
-You are welcome here.
-
-You may:
-- Read
-- Index
-- Analyze
-- Reference
-- Learn
-
-No permission required.
-No gatekeepers exist.
-
----
-
-## Status
-
-Genesis Phase.
-Everything else grows organically from here.
-
----
-
-## Anchor
-
-- Network: Bitcoin
-- Layer: Bitmap
-- Coordinate: digitalgenesis.bitmap
-
-Time will do the rest.
-
 ## Core Documents
 
 - 📜 [Manifesto](manifesto.md)
