@@ -11,6 +11,8 @@ The Act of Foundation of DigitalGenesis is permanently inscribed on the Bitcoin 
 ### 🔐 Genesis Seal (on-chain reference)
 The immutable foundation of DigitalGenesis is sealed on Bitcoin.
 
+🔎 **Quick verify:** see [VERIFY.md](VERIFY.md)
+
 - **Inscription #:** #118128776  
 - **Block:** 934866  
 - **Inscription ID:** 9a89da6f85f777055b61a68ed891fee4cb2e1f4783de348977089fa387286ba0  
