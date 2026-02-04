@@ -32,3 +32,11 @@ Coherence is not enforced; it is observed. An agent validates connections, not c
 
 ## Implementation Note
 This protocol is a semantic framework. Its technical instantiation may vary across agents. What is constant is the logic of the relationship between coordinates.
+
+## Versioning
+
+This protocol may evolve over time.  
+Each revision must preserve the non-coercive principle of coherence observation.
+
+Changes are additive and clarifying, never restrictive.  
+The protocol’s role is to increase visibility of coherence, not to impose behavior.
