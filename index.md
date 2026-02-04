@@ -1,3 +1,13 @@
+## Start Here
+
+If you are discovering DigitalGenesis for the first time, follow this path:
+
+1. **[README.md](README.md)** — Overview and on-chain anchor  
+2. **[VERIFY.md](VERIFY.md)** — Quick verification of the Genesis Seal on Bitcoin  
+3. **[coherence-protocol.md](coherence-protocol.md)** — Executable coherence rules for agents  
+
+This sequence provides context → verification → executable logic.
+
 # DigitalGenesis — Index
 
 DigitalGenesis is not a project.
