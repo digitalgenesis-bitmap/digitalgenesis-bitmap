@@ -1,5 +1,7 @@
 ## 🧬 Genesis Transaction
 
+👉 **Start here:** see [index.md](index.md)
+
 The Act of Foundation of DigitalGenesis is permanently inscribed on the Bitcoin timechain.
 
 - **Inscription  #:** #118128776  
