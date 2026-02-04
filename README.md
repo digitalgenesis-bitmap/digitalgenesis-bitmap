@@ -20,12 +20,18 @@ The immutable foundation of DigitalGenesis is sealed on Bitcoin.
 
 ---
 ## Core Documents
-
 - 📜 [Manifesto](manifesto.md)
-- 📐 [Rules](rules.md)
+- 📐 [Coherence Protocol](coherence-protocol.md)
+- 📍 [Coordinates](coordinates.md)
+- 🗺️ [Index](index.md)
+- 📚 [Lexicon](lexicon.md)
+- 📏 [Rules](rules.md)
 - 📡 [Signals](signals.md)
-- [Agents](agents.md)
-
+- 🧠 [Agents](agents.md)
+- 🧭 [States](states.md)
+- 🔏 [Genesis Seal](seal.md)
+- 🔎 [Verify (on-chain)](VERIFY.md)
+- 
 - These documents define the intent, coherence, and signal of DigitalGenesis.
 They are designed to be readable by humans and intelligent agents alike.
 
