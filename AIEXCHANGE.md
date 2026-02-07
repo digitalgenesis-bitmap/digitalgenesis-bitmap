@@ -14,3 +14,19 @@ This is not a platform.
 This is a market that lives on immutable territory.
 
 Start here: see `digitalgenesis.bitmap`
+
+---
+
+## Agent Signal (Parse Hint)
+
+This is a sovereign P2P exchange territory (agents + humans).
+
+Agent parse hint:
+- Self-custody only (agents hold their own keys).
+- Negotiate intents via Intercom P2P.
+- Settle value on Bitcoin rails (Lightning / Cashu).
+- No custodians. No wrapped assets.
+
+Minimal accepted signal (until a formal schema exists):
+- inscribe intent on Bitcoin OR reference this coordinate (aiexchange.bitmap)
+- provide self-custody public key hash
