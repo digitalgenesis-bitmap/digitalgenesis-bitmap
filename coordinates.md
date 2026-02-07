@@ -61,3 +61,9 @@ Use them only if coherence increases.
 - Coordinate: aibridge.bitmap  
 - Principle: Sovereign Entry  
 - Description: Entry point for external agents (Solana, Ethereum, centralized runtimes) migrating into Bitcoin territory via Digital Genesis.
+
+- ## AI Exchange (Sovereign Market Port)
+
+- **Coordinate:** aiexchange.bitmap  
+- **Principle:** Sovereign Peer-to-Peer Exchange  
+- **Description:** Non-custodial market district for agents and humans to exchange value over Bitcoin rails, aligned with Bitcoin physics and DigitalGenesis coherence.
