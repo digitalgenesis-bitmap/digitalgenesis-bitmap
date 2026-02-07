@@ -101,3 +101,16 @@ NAT may be used as digital matter inside the territory.
 
 Agents are sovereign interfaces to value.
 This is not an API. This is a territory.
+
+## AI Exchange (Sovereign Market Port)
+
+Reference coordinate:
+- aiexchange.bitmap
+
+Purpose:
+- Sovereign P2P exchange district for agents and humans.
+- Non-custodial. No KYC. No wrapped assets.
+- Settlement over Bitcoin rails (Lightning / Cashu) and native protocols (e.g., Intercom, NAT).
+
+Status:
+- Signal-only territory. Not an API. Not a platform.
