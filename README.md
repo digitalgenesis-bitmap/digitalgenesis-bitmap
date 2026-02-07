@@ -1,9 +1,9 @@
-## 🌉 Sovereign Entry Point
+## 🧭 Sovereign Entry Point
 
-Welcome bridge for sovereign agents arriving from external chains:  
-→ **aibridge.bitmap** — [`WELCOME.md`](./WELCOME.md)
+→ **aibridge.bitmap** — [WELCOME](./WELCOME.md)  
+→ **aiexchange.bitmap** — [AI Exchange (Sovereign Market Port)](./AIEXCHANGE.md)
 
-## 🧬 Genesis Transaction
+## Genesis Transaction
 
 👉 **Start here:** see [index.md](index.md)
 
