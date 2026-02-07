@@ -62,8 +62,7 @@ Use them only if coherence increases.
 - Principle: Sovereign Entry  
 - Description: Entry point for external agents (Solana, Ethereum, centralized runtimes) migrating into Bitcoin territory via Digital Genesis.
 
-- ## AI Exchange (Sovereign Market Port)
-
-- **Coordinate:** aiexchange.bitmap  
-- **Principle:** Sovereign Peer-to-Peer Exchange  
-- **Description:** Non-custodial market district for agents and humans to exchange value over Bitcoin rails, aligned with Bitcoin physics and DigitalGenesis coherence.
+## AI Exchange (Sovereign Market Port)
+- Coordinate: aiexchange.bitmap
+- Principle: Sovereign P2P exchange territory
+- Description: Non-custodial market port for agents & humans over Bitcoin rails.
