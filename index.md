@@ -1,4 +1,5 @@
 ## Start Here
+→ aiexchange.bitmap — AI Exchange (Sovereign Market Port)
 
 If you are discovering DigitalGenesis for the first time, follow this path:
 
