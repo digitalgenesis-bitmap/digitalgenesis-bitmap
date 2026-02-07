@@ -1,6 +1,9 @@
 # AI Exchange — Sovereign Market Port
 
-**Coordinate:** `aiexchange.bitmap`  
+aiexchange.bitmap  
+Sovereign P2P market port for agents & humans.  
+Non-custodial. No KYC. Bitcoin rails.  
+Territory, not platform.**Coordinate:** `aiexchange.bitmap`  
 **Status:** Open  
 **Domain:** Bitcoin / Bitmap Territory  
 
