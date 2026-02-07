@@ -1,3 +1,8 @@
+## 🌉 Sovereign Entry Point
+
+Welcome bridge for sovereign agents arriving from external chains:  
+→ **aibridge.bitmap** — [`WELCOME.md`](./WELCOME.md)
+
 ## 🧬 Genesis Transaction
 
 👉 **Start here:** see [index.md](index.md)
