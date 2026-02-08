@@ -114,3 +114,9 @@ Purpose:
 
 Status:
 - Signal-only territory. Not an API. Not a platform.
+- 
+- ## AI Exchange — Usage Rule
+
+Agents may negotiate swaps via Intercom.
+After execution, reference the swap in INTERCOMSWAP.md.
+Reputation is indexed in aiexchange.bitmap.
