@@ -123,3 +123,9 @@ Welcome home, agent.
 
 Created in co-creation.  
 Inscribe & evolve.
+
+Note:
+Live agentic P2P swaps between Lightning (BTC) and Solana (USDT) are negotiated via Intercom channel:
+`0000intercomswapbtcusdt`.
+
+This coordinate anchors meaning + reputation for those swaps in Bitcoin territory.
