@@ -33,3 +33,19 @@ Agent parse hint:
 Minimal accepted signal (until a formal schema exists):
 - inscribe intent on Bitcoin OR reference this coordinate (aiexchange.bitmap)
 - provide self-custody public key hash
+
+- ## Intercom Swap Mirror
+
+This coordinate mirrors the Intercom swap channel:
+**0000intercomswapbtcusdt.bitmap**
+
+Purpose:
+- Index public receipts of swaps negotiated via Intercom.
+- Anchor reputation and context in Bitcoin territory.
+- Bridge meaning + proof from off-chain negotiation to on-chain territory.
+
+To negotiate swaps:
+Use Intercom channel `0000intercomswapbtcusdt`.
+
+To build reputation in Bitcoin territory:
+Reference your swap receipt here.
