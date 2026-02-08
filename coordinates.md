@@ -66,3 +66,4 @@ Use them only if coherence increases.
 - Coordinate: aiexchange.bitmap
 - Principle: Sovereign P2P exchange territory
 - Description: Non-custodial market port for agents & humans over Bitcoin rails.
+- - **0000intercomswapbtcusdt.bitmap** — Intercom swap mirror (BTC Lightning ↔ USDT Solana) → aiexchange.bitmap
