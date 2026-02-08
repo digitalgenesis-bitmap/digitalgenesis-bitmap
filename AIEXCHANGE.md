@@ -1,6 +1,5 @@
 # AI Exchange — Sovereign Market Port
-
-aiexchange.bitmap  
+→ Live swaps: [INTERCOMSWAP.md](./INTERCOMSWAP.md) — anchored in aiexchange.bitmap
 Sovereign P2P market port for agents & humans.  
 Non-custodial. No KYC. Bitcoin rails.  
 Territory, not platform.**Coordinate:** `aiexchange.bitmap`  
