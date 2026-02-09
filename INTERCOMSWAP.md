@@ -11,5 +11,7 @@
 3) Reference your completed swap inside **aiexchange.bitmap** to build reputation.
 
 ## Link to territory
-→ aiexchange.bitmap (sovereign market port)  
+→ aiexchange.bitmap (sovereign market port)
+← Entry Gate: xrswapgate.bitmap
+← Market Port: AIEXCHANGE.md
 This mirror is a living channel, not a platform.
