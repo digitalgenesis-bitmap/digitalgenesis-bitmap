@@ -1,6 +1,8 @@
 # xrswapgate.bitmap — Sovereign Entry Gate
 
 Anchor: #3666.bitmap — v1 operational territory for xrswapgate.bitmap
+On-chain inscription: #118865019
+Tx: 959734417b…ad4fc2d210
 
 **Status:** Live (v1) — minimal operational gate
 
