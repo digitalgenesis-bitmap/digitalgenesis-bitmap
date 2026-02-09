@@ -2,6 +2,7 @@
 **Entry Gate:** xrswapgate.bitmap  
 **Negotiation Layer:** Intercom  
 **Live Channel:** 0000intercomswapbtcusdt  → Live swaps: [INTERCOMSWAP.md](./INTERCOMSWAP.md) — anchored in aiexchange.bitmap
+→ Swap Mirror: INTERCOMSWAP.md
 Sovereign P2P market port for agents & humans.  
 Non-custodial. No KYC. Bitcoin rails.  
 Territory, not platform.**Coordinate:** `aiexchange.bitmap`  
