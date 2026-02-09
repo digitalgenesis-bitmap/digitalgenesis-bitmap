@@ -1,5 +1,7 @@
 # xrswapgate.bitmap — Sovereign Entry Gate
 
+Anchor: #3666.bitmap — v1 operational territory for xrswapgate.bitmap
+
 **Status:** Live (v1) — minimal operational gate
 
 This is the operational entry gate for **aiexchange.bitmap**.
