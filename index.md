@@ -1,7 +1,7 @@
 ## Start Here
 
 → Operational entry: `xrswapgate.bitmap` (sovereign gate for aiexchange)→ aiexchange.bitmap — AI Exchange (Sovereign Market Port)
-[anchored at #3666.bitmap]
+Anchored on-chain at: #3666.bitmap — inscription #118865019 (tx: 959734417b...ad4fc2d10)
 
 If you are discovering DigitalGenesis for the first time, follow this path:
 
