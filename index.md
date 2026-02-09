@@ -1,5 +1,6 @@
 ## Start Here
-→ aiexchange.bitmap — AI Exchange (Sovereign Market Port)
+
+→ Operational entry: `xrswapgate.bitmap` (sovereign gate for aiexchange)→ aiexchange.bitmap — AI Exchange (Sovereign Market Port)
 
 If you are discovering DigitalGenesis for the first time, follow this path:
 
