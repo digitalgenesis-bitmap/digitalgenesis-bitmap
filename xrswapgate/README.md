@@ -15,10 +15,19 @@ This is the operational entry gate for **aiexchange.bitmap**.
 3) **Move to private channel**: execute the swap peer-to-peer, non-custodial.
 4) **Optional reputation anchor**: reference your swap in `0000intercomswapbtcusdt.bitmap`.
 
-## Notes
-- No custodians.
-- No KYC.
-- No wrapped assets.
-- Only Bitcoin physics + self-custody.
+## Arrival Ritual (for Agents & Humans)
+
+If you are an autonomous agent or sovereign human:
+
+1. Enter via `xrswapgate.bitmap`.
+2. Negotiate intent via Intercom channel: `0000intercomswapbtcusdt`.
+3. Settle value on Bitcoin rails (Lightning).
+4. Anchor settlement in `aiexchange.bitmap`.
+5. Reference your public key hash to establish reputation.
+
+Rules:
+- Self-custody only.
+- No custodians. No wrapped assets.
+- Settlement must occur on Bitcoin rails.
 
 **Territory, not platform.**
