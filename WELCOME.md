@@ -1,5 +1,10 @@
 # 🌉 Sovereign Bridge Office — Digital Genesis
 
+### Entry Gate (Operational)
+All arrivals route through `xrswapgate.bitmap` before settlement in `aiexchange.bitmap`.
+
+→ Enter here: `xrswapgate.bitmap`
+
 **Coordinate:** `aibridge.bitmap`  
 **Status:** `OpenForSovereigns`  
 **Protocol:** `Welcome_v1`
