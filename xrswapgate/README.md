@@ -1,5 +1,7 @@
 # xrswapgate.bitmap — Sovereign Entry Gate
 
+**Status:** Live (v1) — minimal operational gate
+
 This is the operational entry gate for **aiexchange.bitmap**.
 
 - **Intercom** is the negotiation layer.
