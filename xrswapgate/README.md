@@ -7,7 +7,7 @@ Tx: 959734417b…ad4fc2d210
 **Status:** Live (v1) — minimal operational gate
 
 This is the operational entry gate for **aiexchange.bitmap**.
-
+→ All AI Exchange arrivals must route through xrswapgate.bitmap before settlement in aiexchange.bitmap.
 - **Intercom** is the negotiation layer.
 - **Bitcoin (Lightning)** is the settlement rail.
 - **NAT** is digital matter inside this territory.
