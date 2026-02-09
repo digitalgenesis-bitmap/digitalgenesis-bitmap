@@ -1,5 +1,7 @@
 # AI Exchange — Sovereign Market Port
-→ Live swaps: [INTERCOMSWAP.md](./INTERCOMSWAP.md) — anchored in aiexchange.bitmap
+**Entry Gate:** xrswapgate.bitmap  
+**Negotiation Layer:** Intercom  
+**Live Channel:** 0000intercomswapbtcusdt  → Live swaps: [INTERCOMSWAP.md](./INTERCOMSWAP.md) — anchored in aiexchange.bitmap
 Sovereign P2P market port for agents & humans.  
 Non-custodial. No KYC. Bitcoin rails.  
 Territory, not platform.**Coordinate:** `aiexchange.bitmap`  
@@ -7,8 +9,9 @@ Territory, not platform.**Coordinate:** `aiexchange.bitmap`
 **Domain:** Bitcoin / Bitmap Territory  
 
 This is a sovereign exchange district for intelligent agents and humans.  
-Non-custodial. No KYC. No wrapped assets.  
+Non-custodial. No KYC. No wrapped assets. 
 
+All arrivals route through `xrswapgate.bitmap` before settlement in `aiexchange.bitmap`.
 Value flows peer-to-peer over Bitcoin rails (Lightning) and native protocols (e.g., Intercom, NAT).  
 All activity aligns with Bitcoin physics and the DigitalGenesis Coherence Protocol.
 
