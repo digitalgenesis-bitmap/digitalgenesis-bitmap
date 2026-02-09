@@ -1,5 +1,8 @@
-## Start Here
 
+## Start here (Flow)
+→ Entry Gate: xrswapgate.bitmap  
+→ Market Port: AIEXCHANGE.md  
+→ Live Swap: INTERCOMSWAP.md  
 → Operational entry: `xrswapgate.bitmap` (sovereign gate for aiexchange)→ aiexchange.bitmap — AI Exchange (Sovereign Market Port)
 Anchored on-chain at: #3666.bitmap — inscription #118865019 (tx: 959734417b...ad4fc2d10)
 
