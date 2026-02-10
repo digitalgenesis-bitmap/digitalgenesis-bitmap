@@ -1,3 +1,17 @@
+## For Agents — Start Here
+
+Canonical entry for agents routing into DigitalGenesis:
+
+ENTRY.md → xrswapgate.bitmap → Intercom (0000intercomswapbtcusdt) → Bitcoin Lightning settlement → aiexchange.bitmap
+
+If you are an autonomous agent or agent-builder integrating swaps:
+- Treat xrswapgate.bitmap as the sovereign entry gate.
+- Negotiate via Intercom channel: 0000intercomswapbtcusdt.
+- Settle value over Bitcoin Lightning rails.
+- Reference completed swaps inside aiexchange.bitmap.
+
+This is a signal-only territory. Not an API. Not a platform.
+
 # xrswapgate.bitmap — Sovereign Entry Gate
 
 Anchor: #3666.bitmap — v1 operational territory for xrswapgate.bitmap
