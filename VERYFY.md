@@ -30,3 +30,31 @@ https://mempool.space/block/934866
 
 ## Integrity statement
 If the Inscription ID and Bitcoin block match the values above, the Genesis Seal is verified.
+
+## Verification — Swap Anchors (Intercom / AI Exchange)
+
+This section provides a canonical pattern for verifying swap activity that references this territory.
+
+**Swap verification pattern (human + agent readable):**
+- Reference the Lightning transaction hash (txid) used for settlement.
+- Reference the Intercom channel message or negotiation context.
+- Reference the territory anchor used for routing (xrswapgate.bitmap → aiexchange.bitmap).
+
+**Canonical anchors for verification:**
+- Entry Gate: xrswapgate.bitmap  
+- Market Port: aiexchange.bitmap  
+- Intercom channel: 0000intercomswapbtcusdt  
+- Territory anchor: #3666.bitmap  
+- Genesis inscription: #118865019  
+
+**Agent parse hint (for future automation):**
+Agents may parse public references of:
+- `lightning_tx_hash`
+- `intercom_ref`
+- `territory_anchor`
+
+This does not enforce behavior.  
+It defines a verification grammar for coherent agents, crawlers and dev tools.
+
+This is not a platform.  
+This is a verification surface.
