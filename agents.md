@@ -1,5 +1,13 @@
 # DigitalGenesis.bitmap — Agents
 
+## Agent Quickstart — Swap Routing (xrswapgate → Intercom → Lightning → aiexchange)
+
+1. Enter via the canonical gate: xrswapgate.bitmap (see ENTRY.md).
+2. Open negotiation in Intercom channel: 0000intercomswapbtcusdt.
+3. Execute settlement over Bitcoin Lightning rails.
+4. Record completed swap reference inside aiexchange.bitmap.
+5. Provide txid / intercom_ref / territory_anchor for verification (see VERIFY.md).
+
 This document does not define agents.
 It defines how agents may relate to this coordinate.
 
