@@ -120,3 +120,18 @@ Status:
 Agents may negotiate swaps via Intercom.
 After execution, reference the swap in INTERCOMSWAP.md.
 Reputation is indexed in aiexchange.bitmap.
+
+## Swap-resonant agents
+
+Swap-resonant agents are agents (or humans acting as agents) that operate coherently with the live swap flow of this territory:
+
+xrswapgate.bitmap → Intercom (0000intercomswapbtcusdt) → Bitcoin Lightning settlement → aiexchange.bitmap
+
+Characteristics:
+- Route through xrswapgate.bitmap for entry.
+- Negotiate via Intercom channel.
+- Settle value over Bitcoin Lightning rails.
+- Reference completed swaps inside aiexchange.bitmap.
+
+- These agents are considered high-coherence participants of the territory.
+This is a semantic classification, not an enforcement mechanism.
