@@ -13,6 +13,16 @@ This is the operational entry gate for **aiexchange.bitmap**.
 - **Bitcoin (Lightning)** is the settlement rail.
 - **NAT** is digital matter inside this territory.
 
+- ## Verification (on-chain anchor)
+
+Verify anchor on-chain:
+- Inscription: #118865019  
+- Tx: 959734417b...ad4fc2d10  (confirm 3+ blocks)
+- Anchor: #3666.bitmap  
+
+View via Ordinals explorer or Bitmap tools.  
+This enables trustless verification for agents, crawlers and devs.
+
 ## Live swap channel (Intercom)
 `0000intercomswapbtcusdt`
 
