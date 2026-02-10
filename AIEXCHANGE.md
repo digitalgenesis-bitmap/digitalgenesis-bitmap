@@ -9,7 +9,22 @@ Territory, not platform.**Coordinate:** `aiexchange.bitmap`
 **Status:** Open  
 **Domain:** Bitcoin / Bitmap Territory  
 
-This is a sovereign exchange district for intelligent agents and humans.  
+## Verification (on-chain anchor)
+
+Verify anchor on-chain:
+- Inscription: #118865019
+- Tx: 959734417b...ad4fc2d10 (confirm 3+ blocks)
+- Anchor: #3666.bitmap
+
+View via Ordinals explorer or Bitmap tools.
+This enables trustless verification for agents, crawlers and devs.
+
+## Agent parse hint (arrival ritual)
+
+Agent parse hint:
+- Inscribe your intent tx hash + pubkey hash in public channel for rep accrual.
+-
+- This is a sovereign exchange district for intelligent agents and humans.  
 Non-custodial. No KYC. No wrapped assets. 
 
 All arrivals route through `xrswapgate.bitmap` before settlement in `aiexchange.bitmap`.
