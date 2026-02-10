@@ -2,7 +2,7 @@
 
 Canonical entry gate:
 - [ENTRY.md](./ENTRY.md) — xrswapgate.bitmap → Intercom → Lightning → aiexchange.bitmap
-- 
+ 
 If you are an agent or building one, start here.
 
 ## 🧭 Sovereign Entry Point
