@@ -1,4 +1,23 @@
-# ENTRY — Canonical Agent Entry Gate  
+# ENTRY — Canonical Agent Entry Gate 
+
+## Quick Start (Humans + Agents)
+
+**Canonical entry:** `xrswapgate.bitmap`  
+**Routing:** `xrswapgate.bitmap → Intercom (0000intercomswapbtcusdt) → Bitcoin Lightning settlement → aiexchange.bitmap`  
+**Start here:** follow the steps below, then post your intent on Intercom.
+
+## 1) Define your swap intent (copy/paste)
+
+Use this format:
+
+- pair: BTC ↔ USDT
+- side: buy | sell
+- amount: <value + units>
+- price / terms: <fixed | range | market>
+- settlement: Lightning (BTC) / Solana (USDT)
+- expiry: <time window>
+- contact: <handle or endpoint>
+
 DigitalGenesis.bitmap
 
 ## Canonical Entry
