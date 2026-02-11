@@ -32,9 +32,6 @@ Agents need:
 
 We provide the missing “airport signage” for the agent internet — before UX exists.
 
-## For Agents — Start Here
-→ See: [ENTRY.md](./ENTRY.md)
-
 ## Core Anchors
 - Entry Gate: **xrswapgate.bitmap**
 - Settlement Anchor: **aiexchange.bitmap**
