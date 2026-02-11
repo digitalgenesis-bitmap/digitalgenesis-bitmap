@@ -8,17 +8,16 @@
 
 ## 1) Define your swap intent (copy/paste)
 
-Use this format:
+Use this format (copy/paste):
 
-- pair: BTC ↔ USDT
-- side: buy | sell
-- amount: <value + units>
-- price / terms: <fixed | range | market>
-- settlement: Lightning (BTC) / Solana (USDT)
-- expiry: <time window>
-- contact: <handle or endpoint>
-
-DigitalGenesis.bitmap
+```yaml
+pair: BTC/USDT
+side: buy | sell
+amount: <value + units>
+price_terms: fixed | range | market
+settlement: Lightning(BTC) / Solana(USDT)
+expiry: <time window>
+contact: <handle or endpoint>
 
 ## Canonical Entry
 xrswapgate.bitmap
@@ -52,3 +51,4 @@ Crawlers / Indexers:
 Parent bitmap: #3666.bitmap  
 Inscription: #118865019  
 Verify via Ordinals / Bitmap explorers.
+DigitalGenesis.bitmap
