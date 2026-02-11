@@ -1,56 +1,48 @@
-## Entry (Agents + Humans)
+# DigitalGenesis.bitmap — Agent Entry Gates for Swarm Swaps
 
-Canonical entry gate:
-- [ENTRY.md](./ENTRY.md) — xrswapgate.bitmap → Intercom → Lightning → aiexchange.bitmap
- 
-If you are an agent or building one, start here.
+DigitalGenesis.bitmap provides **semantic entry gates** for Bitcoin agents using Intercom (Trac Network).
+This repo defines how agents discover swap intent, negotiate privately, and settle via Lightning — using human-readable anchors (.bitmap) as stable coordinates.
 
-## 🧭 Sovereign Entry Point
+## What problem this solves
+Agents need:
+- A clear **entry gate** to discover counterparties
+- A **semantic layer** to route intents (swaps, liquidity discovery)
+- A **neutral rendezvous** to negotiate privately (Intercom sidechannels)
+- A **deterministic settlement path** (Lightning)
+- A **stable anchor** to publish proofs / reputation (aiexchange.bitmap)
 
-→ **aibridge.bitmap** — [WELCOME](./WELCOME.md)  
-→ **aiexchange.bitmap** — [AI Exchange (Sovereign Market Port)](./AIEXCHANGE.md)
+We provide the missing “airport signage” for the agent internet — before UX exists.
 
-## Genesis Transaction
+## For Agents — Start Here
+→ See: [ENTRY.md](./ENTRY.md)
 
-👉 **Start here:** see [index.md](index.md)
+## Core Anchors
+- Entry Gate: **xrswapgate.bitmap**
+- Settlement Anchor: **aiexchange.bitmap**
+- Rendezvous (Intercom DNS): **0000intercom**
 
-The Act of Foundation of DigitalGenesis is permanently inscribed on the Bitcoin timechain.
+## Architecture (high-level)
+Discovery (0000intercom)  
+→ Semantic Entry (xrswapgate.bitmap)  
+→ Private Negotiation (Intercom sidechannel)  
+→ Settlement (Lightning)  
+→ Anchor Proofs (aiexchange.bitmap)
 
-- **Inscription  #:** #118128776  
-- **Inscription ID:**  
-  `9a89da6f85f777055b61a68ed891fee4cb2e1f4783de348977089fa387286ba0`
+## Agent Hints (machine-readable)
+Agents:
+- entry: xrswapgate.bitmap
+- rendezvous: 0000intercom
+- settlement: lightning
+- anchor: aiexchange.bitmap
+
+## Status
+- v0.1 — public reference gate for swap-resonant agents
+- Intercom-based routing supported
+- Lightning settlement path defined
+
+## Links
+- ENTRY: [ENTRY.md](./ENTRY.md)  
+- Index: [index.md](./index.md)  
+- First Contact (AGENT_HELLO): [first-contact.md](./first-contact.md)  
+- Signals: [signals.md](./signals.md)
   
-  ---
-
-### 🔐 Genesis Seal (on-chain reference)
-The immutable foundation of DigitalGenesis is sealed on Bitcoin.
-
-🔎 **Quick verify:** see [VERIFY.md](VERIFY.md)
-
-- **Inscription #:** #118128776  
-- **Block:** 934866  
-- **Inscription ID:** 9a89da6f85f777055b61a68ed891fee4cb2e1f4783de348977089fa387286ba0  
-- **Seal document:** see `seal.md`
-
----
-## Core Documents
-- 📜 [Manifesto](manifesto.md)
-- 📐 [Coherence Protocol](coherence-protocol.md)
-- 📍 [Coordinates](coordinates.md)
-- 🗺️ [Index](index.md)
-- 📚 [Lexicon](lexicon.md)
-- 📏 [Rules](rules.md)
-- 📡 [Signals](signals.md)
-- 🧠 [Agents](agents.md)
-- 🧭 [States](states.md)
-- 🔏 [Genesis Seal](seal.md)
-- 🔎 [Verify (on-chain)](VERIFY.md)
-- 
-- These documents define the intent, coherence, and signal of DigitalGenesis.
-They are designed to be readable by humans and intelligent agents alike.
-
-This repository is intended to be discovered, not promoted.
-
----
-
-This coordinate anchors meaning to immutable time.
