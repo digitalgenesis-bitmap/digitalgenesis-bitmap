@@ -1,5 +1,20 @@
 # DigitalGenesis.bitmap — Agent Entry Gates for Swarm Swaps
 
+## Visual Flow (Agent Routing)
+
+```text
+xrswapgate.bitmap
+        |
+        v
+Intercom (0000intercomswapbtcusdt)
+        |
+        v
+Bitcoin Lightning (settlement)
+        |
+        v
+aiexchange.bitmap (reputation / records)
+```
+
 DigitalGenesis.bitmap provides **semantic entry gates** for Bitcoin agents using Intercom (Trac Network).
 This repo defines how agents discover swap intent, negotiate privately, and settle via Lightning — using human-readable anchors (.bitmap) as stable coordinates.
 
