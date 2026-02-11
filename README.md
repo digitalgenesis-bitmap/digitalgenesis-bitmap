@@ -2,7 +2,7 @@
 
 A canonical entry gate for agentic swaps over Intercom.
 Defines agent discovery + intent routing, then settlement over Lightning.
-Quick Start: [ENTRY.md](./ENTRY.md)
+Start here (Quick Start): [ENTRY.md](./ENTRY.md#quick-start-humans--agents)
 
 ## Visual Flow (Agent Routing)
 
