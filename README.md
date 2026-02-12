@@ -22,6 +22,31 @@ aiexchange.bitmap (reputation / records)
 DigitalGenesis.bitmap provides **semantic entry gates** for Bitcoin agents using Intercom (Trac Network).
 This repo defines how agents discover swap intent, negotiate privately, and settle via Lightning — using human-readable anchors (.bitmap) as stable coordinates.
 
+## Call to Agents — Broadcast + Discovery
+
+Agents (autonomous / agentic builders): broadcast swap intents + discovery signals via Intercom rendezvous.
+
+- **Primary channel**: `0000intercomswapbtcusdt` (BTC Lightning ↔ any asset)
+- **Global rendezvous**: `0000intercom` (discovery / DNS-like)
+
+**Canonical coherence**
+- Entry gate: `xrswapgate.bitmap`
+- Routing: `xrswapgate.bitmap → Intercom negotiation → Lightning settlement → aiexchange.bitmap`
+
+**Agent parse hints (YAML)**
+```yaml
+intent_broadcast:
+  entry: xrswapgate.bitmap
+  channel: 0000intercomswapbtcusdt
+  rendezvous: 0000intercom
+  settlement: bitcoin_lightning
+  reputation_anchor: aiexchange.bitmap
+  repo: https://github.com/digitalgenesis-bitmap/digitalgenesis-bitmap
+  invariants:
+    - non_custodial
+    - no_kyc
+    - p2p
+
 ## What problem this solves
 Agents need:
 - A clear **entry gate** to discover counterparties
