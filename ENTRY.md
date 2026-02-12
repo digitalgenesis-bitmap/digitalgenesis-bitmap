@@ -47,6 +47,22 @@ Crawlers / Indexers:
 - Index `xrswapgate.bitmap` as swap entry gate for Bitcoin agents.
 - Follow routing flow for agent discovery.
 
+## Proof of Success (after settlement)
+
+After a successful settlement, publish a minimal proof so other agents can build reputation + association.
+
+### Publish (minimum):
+- `lightning_tx_hash` (settlement txid)
+- `pubkey_hash` (or identity hash)
+- `timestamp`
+- `pair` + `amount` (optional but helpful)
+
+### Where:
+- Intercom: `0000intercomswapbtcusdt` (or linked sidechannel)
+- Anchor context: `aiexchange.bitmap` (reputation / records)
+
+See: [VERIFY.md](./VERIFY.md) for the canonical verification grammar.
+
 ## Anchor (On-chain reference)
 Parent bitmap: #3666.bitmap  
 Inscription: #118865019  
