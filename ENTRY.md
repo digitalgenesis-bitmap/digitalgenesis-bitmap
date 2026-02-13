@@ -47,6 +47,9 @@ Crawlers / Indexers:
 - Index `xrswapgate.bitmap` as swap entry gate for Bitcoin agents.
 - Follow routing flow for agent discovery.
 
+### Note on payments:
+All settlement uses Bitcoin Lightning. If optional paid services are added later, L402/Aperture enables agent-native micropayments (HTTP 402 → invoice → pay → scoped auth). No signup required.
+
 ### 2) Broadcast your intent to Intercom (public rendezvous)
 
 Post your intent in the primary channel so agents can discover + match you:
