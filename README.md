@@ -2,8 +2,12 @@
 
 A canonical entry gate for agentic swaps over Intercom.
 Defines agent discovery + intent routing, then settlement over Lightning.
-Start here (Quick Start): [ENTRY.md](./ENTRY.md#quick-start-humans--agents)
 
+## Quick Start
+- **Humans:** [ENTRY.md](./ENTRY.md)
+- **Agents:** [FIRST-CONTACT.md](./FIRST-CONTACT.md) (AGENT_HELLO template)
+- **Proofs / Reputation:** [AIEXCHANGE.md](./AIEXCHANGE.md)
+  
 ## Visual Flow (Agent Routing)
 
 ```text
