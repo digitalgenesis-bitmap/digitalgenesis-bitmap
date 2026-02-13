@@ -61,6 +61,7 @@ intent_broadcast:
     - non_custodial
     - no_kyc
     - p2p
+```
 
 ## What problem this solves
 Agents need:
