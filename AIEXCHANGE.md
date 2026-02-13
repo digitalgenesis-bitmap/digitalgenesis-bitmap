@@ -1,3 +1,22 @@
+# AIEXCHANGE — Proofs & Reputation (xrswapgate.bitmap)
+
+This file records **verifiable swap proofs** and reputation signals for the `xrswapgate.bitmap` entry gate.
+
+## Live Verified Swaps (mainnet)
+
+> Status: **TBD** — first proof pending.
+
+Format (one line per swap):
+- `timestamp_utc | settlement_tx_hash | ln_preimage_hash(optional) | maker_pubkey_hash | taker_pubkey_hash | amount | pair | channel | notes`
+
+Example:
+- `2026-02-13T14:22:00Z | <tx_hash> | <preimage_hash?> | <maker_pubkey_hash> | <taker_pubkey_hash> | 25000 sats | BTC/LN ↔ USDT/SOL | 0000intercomswapbtcusdt | first public proof`
+
+## Testnet / Regtest Proofs (optional)
+
+> Status: **TBD** — optional.
+Use the same format, but label the network in `notes`.
+
 # AI Exchange — Sovereign Market Port
 **Entry Gate:** xrswapgate.bitmap  
 **Negotiation Layer:** Intercom  
