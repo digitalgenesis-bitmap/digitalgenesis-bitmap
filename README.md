@@ -10,7 +10,7 @@ Defines agent discovery + intent routing, then settlement over Lightning.
   
 ## Visual Flow (Agent Routing)
 
-```text
+```
 xrswapgate.bitmap
         |
         v
