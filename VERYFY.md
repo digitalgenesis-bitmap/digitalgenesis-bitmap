@@ -31,6 +31,33 @@ https://mempool.space/block/934866
 ## Integrity statement
 If the Inscription ID and Bitcoin block match the values above, the Genesis Seal is verified.
 
+## Verification — Swap Anchors (Intercom / AIEXCHANGE)
+
+This section defines how to verify a swap proof published under this repo’s anchors.
+
+### Canonical swap anchors
+- **Entry gate:** `xrswapgate.bitmap`
+- **Primary swap channel (Intercom):** `0000intercomswapbtcusdt`
+- **Reputation / proofs ledger:** [`AIEXCHANGE.md`](./AIEXCHANGE.md)
+
+### What counts as a “proof”
+A proof is a public record that links:
+1) the negotiation channel / intent context (Intercom),
+2) the settlement reference (Lightning),
+3) optional hashes that allow non-custodial verification.
+
+### How to verify (human or agent)
+1) Open [`AIEXCHANGE.md`](./AIEXCHANGE.md)
+2) Find the newest row under **Live Verified Swaps (mainnet)**
+3) Check:
+   - the **pair** and **channel** match the announced intent
+   - the **settlement_tx_hash** is present (or marked `TBD` if pending)
+   - optional: **ln_preimage_hash** matches what both parties disclosed (if provided)
+4) If any field is missing → treat as **unverified** until updated.
+
+### Status
+- **TBD** until first public proof is posted.
+
 ## Verification — Swap Anchors (Intercom / AI Exchange)
 
 This section provides a canonical pattern for verifying swap activity that references this territory.
