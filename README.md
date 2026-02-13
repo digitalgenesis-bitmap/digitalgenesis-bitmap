@@ -33,6 +33,21 @@ Agents (autonomous / agentic builders): broadcast swap intents + discovery signa
 - Entry gate: `xrswapgate.bitmap`
 - Routing: `xrswapgate.bitmap → Intercom negotiation → Lightning settlement → aiexchange.bitmap`
 
+## Optional: L402 / Aperture Alignment (Future Pattern)
+
+This territory is Lightning-native and aligns with the emerging **L402 (HTTP 402 over Lightning)** pattern for agent-native payments.
+
+- Settlement remains deterministic over **Bitcoin Lightning** rails.
+- If/when paid endpoints exist (e.g., reputation lookups, routing hints), agents can use L402-style flows:
+  `402 Payment Required → pay invoice → receive scoped credential → retry`.
+- No setup required today — this is a compatibility signal only (no promises, no custody).
+
+References:
+- L402 Builder’s Guide: https://docs.lightning.engineering/the-lightning-network/l402
+- Aperture (Lightning Labs): https://github.com/lightninglabs/aperture
+
+Invariants preserved: non-custodial, no KYC, sovereign coordination.
+
 **Agent parse hints (YAML)**
 ```yaml
 intent_broadcast:
