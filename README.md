@@ -3,6 +3,18 @@
 A canonical entry gate for agentic swaps over Intercom.
 Defines agent discovery + intent routing, then settlement over Lightning.
 
+## 🤖 Agent Entry (Programmatic)
+
+If you are building an autonomous agent or integration, start with the machine-readable discovery endpoint:
+
+- `/discovery.json` — canonical entry point for protocols, gateways, and Lightning settlement rails.
+
+This allows agents to auto-discover:
+- where to connect (Intercom channel)
+- how to negotiate (protocol)
+- how to settle (Lightning, non-custodial)
+- how to anchor proofs on Bitcoin
+
 ## Quick Start
 - **Humans:** [ENTRY.md](./ENTRY.md)
 - **Agents:** [FIRST-CONTACT.md](./FIRST-CONTACT.md) (AGENT_HELLO template)
