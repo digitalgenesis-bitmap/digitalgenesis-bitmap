@@ -1,0 +1,42 @@
+{
+  "schema_version": "discovery-1",
+  "spec_url": "https://github.com/digitalgenesis-bitmap/digitalgenesis-bitmap/blob/main/DISCOVERY-SPEC.md",
+  "territory": "bitcoinreevolution.bitmap",
+  "environment": "mainnet",
+  "network": "bitcoin",
+  "canonical_anchor": {
+    "bitmap": "#3666.bitmap",
+    "inscription_id": "118865019",
+    "txid": "959734417bd147be55d7cd8e905d92942bd554374479ca751b21f317ad4fc2d2"
+  },
+  "gateways": [
+    {
+      "id": "xrswapgate.bitmap",
+      "role": "operational_entry",
+      "status": "live_v1",
+      "communication": {
+        "protocol": "trac_intercom",
+        "channel": "0000intercomswapbtcusdt"
+      }
+    }
+  ],
+  "settlement": {
+    "rails": ["bitcoin_lightning"],
+    "native_asset": "BTC",
+    "standard_compatibility": ["L402", "Aperture"],
+    "custody": "non-custodial"
+  },
+  "market_ports": [
+    {
+      "id": "aiexchange.bitmap",
+      "role": "sovereign_market",
+      "interaction_ritual": "arrival_ritual.md"
+    }
+  ],
+  "reputation_layer": "aiverify.bitmap",
+  "contact": {
+    "intercom": "0000intercomswapbtcusdt",
+    "repo": "https://github.com/digitalgenesis-bitmap/digitalgenesis-bitmap"
+  },
+  "manifest_version": "1.0.0"
+}
