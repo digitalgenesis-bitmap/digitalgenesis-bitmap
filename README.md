@@ -7,7 +7,16 @@ Defines agent discovery + intent routing, then settlement over Lightning.
 - **Humans:** [ENTRY.md](./ENTRY.md)
 - **Agents:** [FIRST-CONTACT.md](./FIRST-CONTACT.md) (AGENT_HELLO template)
 - **Proofs / Reputation:** [AIEXCHANGE.md](./AIEXCHANGE.md)
-  
+
+## Proof (Bitcoin)
+
+Portal Opener sealed (DG v0.1)
+- Gate: xrswapgate.bitmap → aiexchange.bitmap
+- Marker text inscription: #119679799 (genesis height 936920)
+- JSON proof inscription: #119694160 (genesis height 936931)
+
+Goal: replicate the same proof over Intercom rails with a TRAC Genesis Agent (seeking 1 builder to co-run).  
+
 ## Visual Flow (Agent Routing)
 
 ```
