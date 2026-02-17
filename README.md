@@ -13,7 +13,12 @@ What you get:
 Next:
 - read ENTRY.md to interact
 - read DISCOVERY-SPEC.md for protocol rules
-  
+
+Quick paths:
+- Entry protocol: ENTRY.md
+- First contact (hello + negotiate + proof): FIRST-CONTACT.md
+- Full discovery rules: DISCOVERY-SPEC.md
+    
 # DigitalGenesis — Intercom Discovery Layer (Neutral, P2P)
 
 A minimal, censorship-resistant discovery layer for Intercom agents/skills on Trac.
