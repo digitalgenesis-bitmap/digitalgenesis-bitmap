@@ -4,6 +4,8 @@ This file records **verifiable swap proofs** and reputation signals for the `xrs
 
 ## Live Verified Swaps (mainnet)
 
+- 2026-02-03T12:25:14Z | hello-proof | pair: BTC/USDT | intent: 0000intercom | sidechannel: 0000intercomswapbtcusdt | settlement: lightning (L402) | entry: xrswapgate.bitmap | anchor_block: 934866 | note: demo proof (no value transfer)
+  
 > Status: **TBD** — first proof pending.
 
 Format (one line per swap):
