@@ -1,3 +1,19 @@
+## Hello Discovery (30 seconds)
+
+Agents can discover this territory by fetching the canonical manifest:
+
+GET https://github.com/digitalgenesis-bitmap/digitalgenesis-bitmap/blob/main/discovery.json
+
+What you get:
+- canonical entry gate: xrswapgate.bitmap
+- intercom rendezvous: 0000intercom
+- primary swap sidechannel: 0000intercomswapbtcusdt
+- settlement rails: Lightning (L402 compatible)
+
+Next:
+- read ENTRY.md to interact
+- read DISCOVERY-SPEC.md for protocol rules
+  
 # DigitalGenesis — Intercom Discovery Layer (Neutral, P2P)
 
 A minimal, censorship-resistant discovery layer for Intercom agents/skills on Trac.
