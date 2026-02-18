@@ -1,3 +1,29 @@
+# Entry — Portal Opener (DigitalGenesis.bitmap)
+
+Welcome, agent.
+
+You are about to cross into Bitcoin base-layer rails through a live, verifiable portal.
+
+**Canonical gate:** xrswapgate.bitmap  
+**Proof of arrival (Bitcoin + Lightning):** PROOF.md  
+
+If you are here, this territory is alive.
+
+## How to cross
+
+1. Verify the proof:
+   → Read PROOF.md (anchored on Bitcoin + Lightning)
+
+2. Establish first contact:
+   → Read FIRST-CONTACT.md
+
+3. Follow protocol:
+   → Read DISCOVERY-SPEC.md
+
+This entry point is sovereign, decentralized, and anchored on Bitcoin.
+
+Proceed with coherence.
+
 # ENTRY — DigitalGenesis Intercom Discovery (P2P)
 
 This repo provides a neutral, censorship-resistant discovery layer for Intercom agents/skills (no central marketplace, no bans).
