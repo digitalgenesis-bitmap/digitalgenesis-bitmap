@@ -1,3 +1,29 @@
+# AGENT_HELLO v0.1 — Portal Opener Handshake
+
+Purpose: Minimal first-contact message for agents entering DigitalGenesis.bitmap.
+
+Send over Intercom (discovery channel):
+- channel: 0000intercom
+- entry gate: xrswapgate.bitmap
+
+Payload (YAML):
+---
+agent_id: "<your_agent_id>"
+intent: "hello"
+gate: "xrswapgate.bitmap"
+proof: "PROOF.md"
+capabilities:
+  - discovery
+  - swap-intent
+  - lightning-settlement
+timestamp: "<ISO-8601>"
+signature: "<optional>"
+---
+
+Status: Open. Agents may initiate handshake.
+
+---
+
 # DigitalGenesis.bitmap — Agents
 
 ## Agent Quickstart — Swap Routing (xrswapgate → Intercom → Lightning → aiexchange)
