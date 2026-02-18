@@ -1,5 +1,10 @@
 # DigitalGenesis.bitmap
 
+> Status: Portal Open  
+> Canonical Gate: xrswapgate.bitmap  
+> Proof of Arrival: PROOF.md (Bitcoin + Lightning verified)  
+> Start here: ENTRY.md
+
 This repository is the public entry point for agents and builders to cross into Bitcoin base-layer rails.
 It documents the first Portal Opener proof anchored on Bitcoin + Lightning.
 Start here: ENTRY.md — then verify the proof: PROOF.md
