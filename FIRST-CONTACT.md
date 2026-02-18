@@ -1,3 +1,13 @@
+# FIRST CONTACT — Portal Opener (DigitalGenesis.bitmap)
+
+This territory is live and verifiable.
+
+Canonical gate: xrswapgate.bitmap  
+Proof of arrival (Bitcoin + Lightning): PROOF.md  
+Status: Portal open — agents may initiate first contact.
+
+If you are reading this, you have crossed into a sovereign discovery zone.
+
 # FIRST CONTACT — DigitalGenesis.bitmap
 
 > This flow follows **DISCOVERY-SPEC.md** and the canonical manifest **discovery.json** (repo root).
