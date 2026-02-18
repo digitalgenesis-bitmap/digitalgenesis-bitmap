@@ -20,9 +20,24 @@ https://mempool.space/block/934866
 > Note: If your block explorer requires the block hash, you can paste the block height (934866) into the explorer search.
 
 ## What to check
-1) The inscription exists and matches the Act of Foundation content.  
-2) The block height (934866) exists on Bitcoin mainnet.  
-3) The values match those referenced in `README.md` and `seal.md`.
+
+1) Human-readable proof  
+- Open: PROOF.md  
+- Confirm the message and timestamps match the Lightning proof.
+
+2) Ordinals anchor (permanent text marker)  
+- Open the Inscription ID link above.  
+- Confirm the human-readable proof line exists on Bitcoin.
+
+3) Bitcoin block anchor  
+- Open the block link above.  
+- Confirm the inscription is included in this block.
+
+4) Cross-check  
+- The message in PROOF.md must match the text anchored on Bitcoin.  
+- The Lightning proof line must match the payment hash/preimage.
+
+If all four match, this portal is cryptographically verified and live.
 
 ## Source of truth
 - `seal.md` — canonical seal document  
