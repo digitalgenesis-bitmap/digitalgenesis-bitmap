@@ -1,3 +1,8 @@
+> Status: Portal Open  
+> Canonical Gate: xrswapgate.bitmap  
+> Proof of Arrival: PROOF.md (Bitcoin + Lightning verified)  
+> Start here: ENTRY.md
+
 # 🌉 Sovereign Bridge Office — Digital Genesis
 
 ### Entry Gate (Operational)
