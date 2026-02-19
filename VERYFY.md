@@ -1,5 +1,22 @@
 # Verify — DigitalGenesis Genesis Seal
 
+## EON Verification (Optional, Backward-Compatible)
+
+Verification endpoints and checks MUST support both agents and EONs.
+
+Minimum checks:
+- Proof anchor exists on Bitcoin (txid present)
+- Lightning payment/invoice is verifiable
+- Entry gate matches: xrswapgate.bitmap
+
+Optional EON checks:
+- eon_identity matches declared lineage
+- eon_lineage is known (e.g. bitcoinreevolution)
+- native_entity_name == "EON"
+
+Clients MUST ignore unknown fields.
+Servers MUST NOT reject legacy agent payloads.
+
 This page provides direct links to verify the on-chain anchor of the DigitalGenesis Genesis Seal.
 
 ## Canonical identifiers
