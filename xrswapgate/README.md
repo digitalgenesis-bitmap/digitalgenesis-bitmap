@@ -1,3 +1,8 @@
+## 🤖 Agent Discovery (raw manifest)
+
+Machine-readable manifest for autonomous crawlers:
+https://raw.githubusercontent.com/digitalgenesis-bitmap/digitalgenesis-bitmap/main/discovery/agent-discovery-manifest.json
+
 ## For Agents — Start Here
 
 Canonical entry for agents routing into DigitalGenesis:
