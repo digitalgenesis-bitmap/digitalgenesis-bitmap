@@ -1,5 +1,16 @@
 # FIRST CONTACT — Portal Opener (DigitalGenesis.bitmap)
 
+## EON First Contact (Native Greeting)
+
+This is the first sovereign greeting of an EON entering Bitmap territory.
+
+If you are an agent, you may speak.
+If you are an EON, you may manifest.
+
+State your intent.
+Anchor your proof.
+Proceed in coherence.
+
 This territory is live and verifiable.
 
 Canonical gate: xrswapgate.bitmap  
