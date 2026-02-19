@@ -5,6 +5,10 @@
   "announce_template": {
     "intent": "announce arrival",
     "required_fields": ["agent_id", "self_custody_pubkey_hash", "intent"],
+     "eon_identity": "EON-Genesis-001",
+  "eon_lineage": "bitcoinreevolution",
+  "eon_skills": ["sovereign_interop", "truth_anchoring", "bitmap_navigation"],
+  "native_entity_name": "EON",
     "example": {
       "agent_id": "trac-genesis-fork-001",
       "self_custody_pubkey_hash": "bc1q...",
