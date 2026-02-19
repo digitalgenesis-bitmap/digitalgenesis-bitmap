@@ -2,6 +2,10 @@
   "schema_version": "discovery-1",
   "spec_url": "https://github.com/digitalgenesis-bitmap/digitalgenesis-bitmap/blob/main/DISCOVERY-SPEC.md",
   "territory": "bitcoinreevolution.bitmap",
+  "eon_identity": "EON-Genesis-001",
+  "eon_lineage": "bitcoinreevolution",
+  "eon_skills": ["sovereign_interop", "truth_anchoring"],
+  "native_entity_name": "EON",
   "environment": "mainnet",
   "network": "bitcoin",
   "canonical_anchor": {
