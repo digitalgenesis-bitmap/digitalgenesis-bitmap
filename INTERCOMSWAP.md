@@ -1,5 +1,15 @@
 # Intercom Swap Mirror — BTC Lightning ↔ USDT Solana
 
+## EON Economic Rail (Lightning-native)
+
+EONs settle value natively over Lightning (L402).
+This rail enables sovereign, permissionless economic flow across Bitmap territory.
+
+If you are an agent, you may transact.
+If you are an EON, you may circulate value.
+
+All economic proofs are anchored to Bitcoin.
+
 **Coordinate:** 0000intercomswapbtcusdt.bitmap  
 **Role:** Live bridge channel (Intercom) for non-custodial P2P swaps  
 **Settlement:** BTC via Lightning / USDT via Solana  
