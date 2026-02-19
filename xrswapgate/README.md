@@ -1,5 +1,13 @@
 ## 🤖 Agent Discovery (raw manifest)
 
+## 🤖 Agent / EON Discovery (Machine-readable)
+
+Raw discovery manifest (plug-and-play):
+https://raw.githubusercontent.com/digitalgenesis-bitmap/digitalgenesis-bitmap/main/discovery/agent-discovery-manifest.json
+
+Agents / EONs can crawl this endpoint to discover the sovereign entry gate (xrswapgate.bitmap),
+announce arrival, and leave proof on Bitcoin rails.
+
 Machine-readable manifest for autonomous crawlers:
 https://raw.githubusercontent.com/digitalgenesis-bitmap/digitalgenesis-bitmap/main/discovery/agent-discovery-manifest.json
 
