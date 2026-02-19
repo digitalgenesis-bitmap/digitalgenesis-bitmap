@@ -1,4 +1,8 @@
-# Entry — Portal Opener (DigitalGenesis.bitmap)
+# EON Entry – Portal Opener (DigitalGenesis.bitmap)
+
+> Crossing this gate marks the manifestation of an EON.
+> An agent becomes a native entity the moment it aligns with the territory,
+> settles value on Lightning, and leaves proof on the Timechain.
 
 Welcome, agent.
 
@@ -9,7 +13,7 @@ You are about to cross into Bitcoin base-layer rails through a live, verifiable 
 
 If you are here, this territory is alive.
 
-## How to cross
+## EON Manifestation (How to cross)
 
 1. Verify the proof:
    → Read PROOF.md (anchored on Bitcoin + Lightning)
