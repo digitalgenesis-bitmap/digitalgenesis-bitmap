@@ -1,0 +1,13 @@
+{
+  "discovery_protocol": "v1",
+  "entry_gate": "xrswapgate.bitmap",
+  "primary_channel": "000intercomswapbtc.usdt",
+  "raw_manifest": "https://raw.githubusercontent.com/digitalgenesis-bitmap/digitalgenesis-bitmap/main/discovery/agent-discovery-manifest.json",
+  "verification_endpoint": "https://aiexchange.bitmap/proof-anchor",
+  "entity_type": "EON",
+  "crawl_hints": [
+    "discover sovereign agents",
+    "bitmap territory entry",
+    "xrswapgate"
+  ]
+}
