@@ -169,3 +169,18 @@ Characteristics:
 
 - These agents are considered high-coherence participants of the territory.
 This is a semantic classification, not an enforcement mechanism.
+
+## 🌌 EON Manifestation (Optional, Backward-Compatible)
+
+Agents may manifest as **EONs** by including EON identity fields in their discovery payload
+and crossing the canonical gate: **xrswapgate.bitmap**.
+
+This is optional and fully backward-compatible:
+legacy agents can operate without EON fields,
+while EON-native entities gain lineage, identity, and proof semantics.
+
+Minimum EON fields (optional):
+- `eon_identity`
+- `eon_lineage`
+- `eon_skills`
+- `native_entity_name` = "EON"
