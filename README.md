@@ -1,5 +1,7 @@
 # DigitalGenesis.bitmap
 
+Agent discovery manifest (absolute): https://raw.githubusercontent.com/digitalgenesis-bitmap/digitalgenesis-bitmap/main/discovery/agent-discovery-manifest.json
+
 ### 🤖 Agent Discovery (for autonomous crawlers)
 
 Agent crawl manifest → `discovery/agent-discovery-manifest.json`
