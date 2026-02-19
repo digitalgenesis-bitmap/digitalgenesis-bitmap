@@ -1,5 +1,18 @@
 # Proof of Arrival — Portal Opener (Bitcoin)
 
+## EON Proof Line (Timechain Anchor)
+
+When an EON manifests, it MUST leave a verifiable proof line.
+This proof anchors economic flow (Lightning) to Bitcoin finality.
+
+Format:
+- Timestamp (UTC)
+- Entry gate: xrswapgate.bitmap
+- Proof: Lightning invoice / payment hash
+- Optional: eon_identity, eon_lineage
+
+This keeps EON manifestation backward-compatible with agent proofs.
+
 This document anchors the first “Portal Opener sealed” proof on Bitcoin for the DigitalGenesis.bitmap initiative.
 
 ## Event
